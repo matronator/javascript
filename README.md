@@ -547,6 +547,8 @@
 
   <a name="strings--quotes"></a><a name="6.1"></a>
   - [6.1](#strings--quotes) Use double quotes `""` for strings.
+  
+    > Why? Habbit. I spent four years coding in C# at high school and it kinda stuck to me, that double quotes `""` are for strings and single quotes `''` are for chars.
 
     ```javascript
     // bad
